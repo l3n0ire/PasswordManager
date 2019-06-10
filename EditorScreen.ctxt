@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EditorScreen
+comment0.text=\r\n\ Interface\ that\ allows\ users\ to\ edit\ their\ previously\ saved\ passwords\r\n\ \r\n\ @author\ Colin\ Lin\r\n\ @version\ 1.0\ 2018-12-03\r\n
+comment1.params=
+comment1.target=EditorScreen()
+comment2.params=
+comment2.target=void\ changePassword()
+comment3.params=
+comment3.target=void\ resetStatus()
+comment4.params=event
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5

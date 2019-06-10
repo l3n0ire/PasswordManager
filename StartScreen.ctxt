@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StartScreen
+comment0.text=\r\n\ Interface\ which\ redirects\ new\ users\ to\ the\ RegisterScreen\ \r\n\ and\ existing\ users\ to\ the\ LoginScreen\r\n\ contains\ main\ method\ of\ Password\ Manager\r\n\ \r\n\ @author\ Colin\ Lin\r\n\ @version\ 1.0\ 2018-12-30\r\n
+comment1.params=
+comment1.target=StartScreen()
+comment2.params=
+comment2.target=boolean\ isNewUser()
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=argument
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ Main\ method\ of\ Password\ Manager\r\n\r\n\ @param\ argument\ not\ used\r\n
+numComments=5

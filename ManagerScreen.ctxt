@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ManagerScreen
+comment0.text=\r\n\ Interface\ which\ allows\ users\ to\ add,edit,\ and\ delete\ their\ passwords\r\n\ \r\n\ @author\ Colin\ Lin\r\n\ @version\ 1.0\ 2018-12-03\r\n
+comment1.params=e
+comment1.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment2.params=
+comment2.target=ManagerScreen()
+comment3.params=
+comment3.target=void\ refreshList()
+comment4.params=
+comment4.target=void\ deletePassword()
+comment5.params=
+comment5.target=void\ resetStatus()
+comment6.params=event
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=
+comment7.target=java.lang.String\ getWebsite()
+comment8.params=
+comment8.target=void\ resetWebsite()
+numComments=9

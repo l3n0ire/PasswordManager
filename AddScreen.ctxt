@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=AddScreen
+comment0.text=\r\n\ Interface\ which\ allows\ users\ to\ add\ a\ new\ password\r\n\ \r\n\ @author\ Colin\ Lin\r\n\ @version\ 1.0\ 2018-12-30\r\n
+comment1.params=
+comment1.target=AddScreen()
+comment2.params=
+comment2.target=void\ resetTextFields()
+comment3.params=
+comment3.target=void\ savePassword()
+comment4.params=
+comment4.target=void\ resetStatus()
+comment5.params=event
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6

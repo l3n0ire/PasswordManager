@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=LoginScreen
+comment0.text=\r\n\ Interface\ which\ allows\ existing\ users\ to\ login\ and\ new\ users\ to\ register\r\n\ \r\n\ \r\n\ @author\ Colin\ Lin\r\n\ @version\ 1.0\ 2018-12-03\r\n
+comment1.params=
+comment1.target=LoginScreen()
+comment2.params=
+comment2.target=void\ loginOrRegister()
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=java.lang.String\ getUserName()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

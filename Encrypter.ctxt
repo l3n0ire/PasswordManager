@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=password
+comment0.target=java.lang.String\ encrypt(java.lang.String)
+comment1.params=encrypted\ fileName\ file
+comment1.target=void\ saveFile(java.lang.String,\ java.lang.String,\ java.io.File)
+comment2.params=encrypted
+comment2.target=java.lang.String\ decrypt(java.lang.String)
+numComments=3

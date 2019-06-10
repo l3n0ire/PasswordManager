@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=AccountLock
+comment0.text=\r\n\ Locks\ password\ manager\ account\ for\ 60\ seconds\r\n\ \r\n\ @author\ Colin\ Lin\r\n\ @version\ 1.0\ 2018-12-30\r\n
+comment1.params=s
+comment1.target=AccountLock(java.lang.String)
+comment2.params=
+comment2.target=void\ run()
+numComments=3
